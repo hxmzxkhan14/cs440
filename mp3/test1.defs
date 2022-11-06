@@ -1,0 +1,8 @@
+(define (fn-a x)
+  (+ x 10))
+
+(define (fn-b x)
+  (* x 20))
+
+(define (fn-c x)
+  (fn-a (fn-b x)))
