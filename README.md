@@ -1,4 +1,4 @@
-CS440 `Programming Languages and Translators`
+CS440 `(Programming Languages and Translators)`
 ==========================
 
 ##### All 3 machine problems from CS440 (Fall 2022)
